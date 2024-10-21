@@ -5,12 +5,10 @@ Project Overview:
 
 Data Cleaning:
 
-  Removed duplicates and inconsistent entries.
-  Handled missing or null values.
-  Standardized formats for date, price, and other categorical variables.
-  Performed basic statistical analysis to ensure data accuracy.
+Removed duplicates and inconsistent entries, Handled missing or null values, Standardized formats for date, price, and other categorical variables., Performed basic statistical analysis to ensure data accuracy.
 
 Dashboard Visualization:
+
 Created dynamic charts to visualize key metrics like average income per purchase, customer age, and regional performance.
 Incorporated filters to drill down into specific data segments (e.g., average income per purchase, customer age, or customer commute).
 Used pivot tables and graphs to enhance data exploration.
