@@ -14,8 +14,10 @@ Incorporated filters to drill down into specific data segments (e.g., average in
 Used pivot tables and graphs to enhance data exploration.
 
 Tools Used:
+
 Excel: for data cleaning, analysis, and visualization.
 
 Key Insights:
+
 Sales Trends: Identified customer commute.
 Regional Performance: Highlighted top-performing regions.
