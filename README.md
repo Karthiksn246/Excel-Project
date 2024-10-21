@@ -2,8 +2,11 @@
 This project involves cleaning a bike sales dataset and creating an insightful dashboard visualization using Excel. The objective of this project is to transform raw sales data into a clean, standardized format and generate visual insights to aid decision-making.
 
 Project Overview:
+
 Data Cleaning:
+
 Removed duplicates and inconsistent entries.
+
 Handled missing or null values.
 Standardized formats for date, price, and other categorical variables.
 Performed basic statistical analysis to ensure data accuracy.
